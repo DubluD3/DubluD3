@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DubluDe
 - 👀 I’m interested in automations
-- 🌱 I’m currently learning python and SwiftUI
+- 🌱 I’m currently pursuing TheOdinProject.com
 - 📫 Reach me on Twitter @DubluDe
 
 <!---
