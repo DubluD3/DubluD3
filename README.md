@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hi, I'm DubluDe</h2>
+<img alt="Hi" src="./Hand%20Wave.gif" width='60' align="left"/><h2>Hi, I'm DubluDe</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
