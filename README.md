@@ -36,7 +36,11 @@
 </a>
 </p>
 
-<p align="center"><a><img src="https://img.shields.io/twitter/follow/DubluDe"/></a></p>
+<p align="center">
+  <a href="https://twitter.com/intent/follow?screen_name=DubluDe">
+    <img src="https://img.shields.io/twitter/follow/DubluDe"/>
+  </a>
+</p>
 <!---
 DubluD3/DubluD3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
